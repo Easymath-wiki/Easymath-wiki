@@ -22,13 +22,17 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
   features:
-    # - navigation.instant
-    - navigation.sections
     - navigation.tabs
+    - navigation.tabs.sticky
+    - search.suggest
+    - search.highlight
+    - search.share
   font:
     text: Roboto
     code: Roboto Mono
 markdown_extensions:
+  - toc:
+      permalink: true
   - abbr
   - pymdownx.snippets
   - attr_list
@@ -68,3 +72,9 @@ edit_uri: ""
 nav:
   - Home: index.md
   - Elements for Functions: EF.md
+  - Statics:
+    - Introdction: statics/introduction.md
+    - Knowledge:
+      - 总体: statics/knowledge/总体.md
+      - 样本: statics/knowledge/样本.md
+      - 统计量: statics/knowledge/统计量.md
