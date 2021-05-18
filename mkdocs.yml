@@ -1,0 +1,70 @@
+site_name: Easymath-wiki
+site_url: https://easymath-wiki.com
+site_author: Humor
+site_description: >-
+  Know the things about math where you want to know immediately.
+
+
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    # - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+  font:
+    text: Roboto
+    code: Roboto Mono
+markdown_extensions:
+  - abbr
+  - pymdownx.snippets
+  - attr_list
+  - def_list
+  - pymdownx.arithmatex:
+      generic: true
+  - meta
+  - pymdownx.highlight:
+      linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid-experimental
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Huang-Shijie-SDUWH/Easymath-wiki
+    - icon: fontawesome/brands/wordpress
+      link: https://mylifemeaning.cn
+
+
+repo_name: Huang-Shijie-SDUWH/Easymath-wiki
+repo_url: https://github.com/Huang-Shijie-SDUWH/Easymath-wiki
+edit_uri: ""
+
+
+nav:
+  - Home: index.md
+  - Elements for Functions: EF.md
