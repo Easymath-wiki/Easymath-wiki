@@ -49,11 +49,23 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - admonition
+  - md_in_html
+  - codehilite:
+      guess_lang: false
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
   - pymdownx.superfences:
       custom_fences:
-        - name: mermaid
-          class: mermaid-experimental
-          format: !!python/name:pymdownx.superfences.fence_code_format
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_code_format ''
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
 
 extra:
@@ -78,3 +90,8 @@ nav:
       - 总体: statics/knowledge/总体.md
       - 样本: statics/knowledge/样本.md
       - 统计量: statics/knowledge/统计量.md
+
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
