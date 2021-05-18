@@ -87,10 +87,10 @@ nav:
   - Statistics:
     - Introdction: statistics/introduction.md
     - Knowledge:
-      - 总体: statistics/knowledge/总体.md
-      - 样本: statistics/knowledge/样本.md
-      - 统计量: statistics/knowledge/统计量.md
-      - 经验分布函数: statistics/knowledge/经验分布函数.md
+      - 总体: statistics/knowledge/basic/总体.md
+      - 样本: statistics/knowledge/basic/样本.md
+      - 统计量: statistics/knowledge/basic/统计量.md
+      - 经验分布函数: statistics/knowledge/basic/经验分布函数.md
 
 extra_javascript:
   - javascripts/config.js
