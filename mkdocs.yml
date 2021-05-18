@@ -84,12 +84,12 @@ edit_uri: ""
 nav:
   - Home: index.md
   - Elements for Functions: EF.md
-  - Statics:
-    - Introdction: statics/introduction.md
+  - Statistics:
+    - Introdction: statistics/introduction.md
     - Knowledge:
-      - 总体: statics/knowledge/总体.md
-      - 样本: statics/knowledge/样本.md
-      - 统计量: statics/knowledge/统计量.md
+      - 总体: statistics/knowledge/总体.md
+      - 样本: statistics/knowledge/样本.md
+      - 统计量: statistics/knowledge/统计量.md
 
 extra_javascript:
   - javascripts/config.js
