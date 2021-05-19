@@ -80,18 +80,6 @@ repo_name: Huang-Shijie-SDUWH/Easymath-wiki
 repo_url: https://github.com/Huang-Shijie-SDUWH/Easymath-wiki
 edit_uri: ""
 
-
-nav:
-  - Home: index.md
-  - Elements for Functions: EF.md
-  - Statistics:
-    - Introdction: statistics/introduction.md
-    - Knowledge:
-      - 总体: statistics/knowledge/basic/总体.md
-      - 样本: statistics/knowledge/basic/样本.md
-      - 统计量: statistics/knowledge/basic/统计量.md
-      - 经验分布函数: statistics/knowledge/basic/经验分布函数.md
-
 extra_javascript:
   - javascripts/config.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
