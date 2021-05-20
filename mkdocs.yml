@@ -78,7 +78,7 @@ extra:
 
 repo_name: Huang-Shijie-SDUWH/Easymath-wiki
 repo_url: https://github.com/Huang-Shijie-SDUWH/Easymath-wiki
-edit_uri: ""
+edit_uri: edit/master/docs
 
 extra_javascript:
   - javascripts/config.js
