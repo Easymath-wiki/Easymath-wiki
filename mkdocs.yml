@@ -59,6 +59,8 @@ markdown_extensions:
   - pymdownx.magiclink
   - pymdownx.mark
   - pymdownx.smartsymbols
+  - pymdownx.betterem:
+      smart_enable: all
   - pymdownx.superfences:
       custom_fences:
       - name: mermaid
