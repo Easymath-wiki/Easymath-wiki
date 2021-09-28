@@ -2,4 +2,4 @@ mkdocs
 Pygments
 markdown
 pymdown-extensions
-mkdocs-material-extensions
+mkdocs-material
