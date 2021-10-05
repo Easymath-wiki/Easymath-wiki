@@ -57,7 +57,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.betterem:
-      smart_enable: all
+      smart_enable: 'underscore'
   - pymdownx.superfences:
       custom_fences:
       - name: mermaid
