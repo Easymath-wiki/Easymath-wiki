@@ -1,0 +1,7 @@
+.md-typeset div.arithmatex {
+  overflow-y: hidden;
+}
+
+.hidden-latex {
+  display: none;
+}
