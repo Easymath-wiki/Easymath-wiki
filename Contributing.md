@@ -76,3 +76,17 @@ $$
 \lim_{n \to \infty} \left(1 + \frac{1}{n} \right)^n = \mathrm{e}
 $$
 * $\mathrm{D}(x^2)=\frac{\mathrm{d}}{\mathrm{d}x}(x^2)=2x$
+
+### 隐藏的 Latex 块
+
+有些时候，你或许想要使用 `\renewcommand` 来自定义一些 LaTeX 命令，但是直接在数学块里定义新的 LaTeX 命令会产生一段空白。
+
+因此，我们建议将所有 `\renewcommand` 命令都放在文章首部的一个隐藏公式块里：
+
+```html
+<div class="hidden-latex">
+\[
+    \renewcommand{fracx}{\displaystyle \frac}
+\]
+</div>
+```
