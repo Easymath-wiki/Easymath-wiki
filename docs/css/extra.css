@@ -5,3 +5,8 @@
 .hidden-latex {
   display: none;
 }
+
+#disqus_thread {
+  width:90%;
+  margin: 0 auto;
+}
