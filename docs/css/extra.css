@@ -10,3 +10,11 @@
   width:90%;
   margin: 0 auto;
 }
+
+.md-nav__link {
+  display: block;
+}
+
+.md-nav__link > * {
+  display: inline;
+}
