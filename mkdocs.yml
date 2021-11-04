@@ -31,6 +31,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+  custom_dir: overrides
 markdown_extensions:
   - toc:
       permalink: true
@@ -73,7 +74,11 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Huang-Shijie-SDUWH/Easymath-wiki
-
+  disqus:
+  cusdis:
+    host: https://cusdis.kxxt.tech
+    lang: zh-cn
+    app_id: 4cd3d461-7504-4788-8374-ac6df6d2cbb7
 
 repo_name: Huang-Shijie-SDUWH/Easymath-wiki
 repo_url: https://github.com/Huang-Shijie-SDUWH/Easymath-wiki
