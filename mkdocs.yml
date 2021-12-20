@@ -69,8 +69,7 @@ markdown_extensions:
   - pymdownx.tilde
 extra_css:
   - css/extra.css
-  - https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css
-
+  
 extra:
   social:
     - icon: fontawesome/brands/github
