@@ -1,4 +1,4 @@
 # Easymath-wiki
- A wiki aiming at learning math comfortably.
+ If you think math is easy, share that pleasure.
  
 [Visit the Website](https://easymath-wiki.org/)
