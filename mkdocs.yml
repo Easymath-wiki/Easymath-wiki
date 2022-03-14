@@ -85,6 +85,6 @@ repo_url: https://github.com/Huang-Shijie-SDUWH/Easymath-wiki
 edit_uri: edit/master/docs
 
 extra_javascript:
-  - https://cdn.bootcdn.net/ajax/libs/mathjax/2.7.9/MathJax.min.js
+  - https://cdn.bootcdn.net/ajax/libs/mathjax/2.7.9/MathJax.js
   - javascripts/config.js
 copyright: Copyright &copy; 2021 Easymath Wiki Team
