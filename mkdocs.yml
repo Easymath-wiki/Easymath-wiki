@@ -1,6 +1,6 @@
 site_name: Easymath-wiki
 site_url: https://easymath-wiki.com
-site_author: Humor
+site_author: easymath-wiki
 site_description: >-
   Know the things about math where you want to know immediately.
 
@@ -73,15 +73,15 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Huang-Shijie-SDUWH/Easymath-wiki
+      link: https://github.com/Easymath-wiki/Easymath-wiki
   disqus:
   cusdis:
     host: https://cusdis.kxxt.tech
     lang: zh-cn
     app_id: 4cd3d461-7504-4788-8374-ac6df6d2cbb7
 
-repo_name: Huang-Shijie-SDUWH/Easymath-wiki
-repo_url: https://github.com/Huang-Shijie-SDUWH/Easymath-wiki
+repo_name: Easymath-wiki
+repo_url: https://github.com/Easymath-wiki/Easymath-wiki
 edit_uri: edit/master/docs
 
 extra_javascript:
