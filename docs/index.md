@@ -4,7 +4,7 @@ Easymath-wiki 是由数学系本科学生搭建并维护的一个数学百科全
 
 当今学界内卷化严重，恶性竞争屡见不鲜，而网络尚未有简洁明了的数学系本科知识教程类网站。本站源于社区，灵感来自于 [OI wiki](https://oi-wiki.org) 与 [CTF wiki](https://ctf-wiki.org)，秉持开源精神，希望能在巩固编辑者自身知识的同时，为遏止恶性竞争，倡导学术本质的探讨乐趣，发扬开源精神出一份力。
 
-此文档在 [Github](https://github.com/Huang-Shijie-SDUWH/Easymath-wiki/)上开源，任何人都可以提交自己的修改建议，想要进一步编辑此文档，请联系：xu_1412@126.com。
+此文档在 [Github](https://github.com/Huang-Shijie-SDUWH/Easymath-wiki/)上开源，任何人都可以提交自己的修改建议，想要进一步编辑此文档，请联系：admin@easymath-wiki.org。
 
 我们倡导有激情的写作，而不是从一味的死板地照搬课本内容，因为我们认为，这样的写作才是有价值，有色彩，能够给读者带来快速理解，并且引人入胜的。
 
