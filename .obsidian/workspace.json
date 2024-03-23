@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "d6a92f82fb645ddd",
+    "type": "split",
+    "children": [
+      {
+        "id": "603e1d34a4c5cd2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0bb7a67e44e4c58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/复变函数/复数/复数的极坐标变换.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab6aeeb829ceefbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c34e1619dd300066",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd01fc0e0c5c24a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc4c5b5236f227a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "918f73d76aa3cfea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7412ccbb36033213",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d3595ece7c52f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c47b42da6c32104",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/复变函数/复数/复数的极坐标变换.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39a821e78419381f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/复变函数/复数/复数的极坐标变换.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b61a4b682d16c87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ca1f61c161bd398",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/复变函数/复数/复数的极坐标变换.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d0bb7a67e44e4c58",
+  "lastOpenFiles": [
+    "docs/数学分析/实数与复数/介绍.md",
+    "docs/数学分析/极限.md",
+    "docs/复变函数/复数/复数的极坐标变换.md",
+    "docs/复变函数/复数/复数简介.md",
+    "docs/复变函数/复数",
+    "docs/复变函数/概要.md",
+    "docs/数理统计/相关知识/估计/最大似然估计.md",
+    "docs/数理统计/学科概述.md",
+    "docs/随机过程/学科简介.md",
+    "docs/高等代数/学科概述.md",
+    "docs/数理统计/相关知识/估计/一致最小方差无偏估计.md",
+    "docs/复变函数",
+    "docs/实变函数/学科概述.md",
+    "docs/实变函数",
+    "未命名",
+    "docs/数理统计/相关知识/估计/同变估计.md",
+    "docs/数理统计/相关知识/估计/直观估计.md",
+    "docs/数理统计/相关知识/估计/矩法.md"
+  ]
+}
