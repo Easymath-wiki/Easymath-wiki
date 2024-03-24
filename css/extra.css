@@ -1,0 +1,16 @@
+.hidden-latex {
+  display: none;
+}
+
+#disqus_thread {
+  width:90%;
+  margin: 0 auto;
+}
+
+.md-nav--secondary .md-nav__link {
+  display: block;
+}
+
+.md-nav--secondary .md-nav__link > * {
+  display: inline;
+}
